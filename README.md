@@ -1,0 +1,3 @@
+This project explores the application of classification algorithms to predict income levels based on data from the U.S. Census Bureau. Using the Census Income dataset, the objective is to classify individuals into two income levels: those earning over $50K annually and those earning $50K or less.
+
+This project involves preprocessing the dataset to handle missing values, encode categorical variables, and address class imbalance. Multiple classification algorithms, including KNN, Naive Bayes, Random Forest, and an ensemble model having all of these three models, are implemented and evaluated based on accuracy, precision, recall, and F1-score metrics.
